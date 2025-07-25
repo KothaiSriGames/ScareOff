@@ -11,12 +11,12 @@ Features:
 
 Tools Used:
 
-Unity (2021+)
-C# scripting
-NavMesh AI (for alien pathfinding)
-Custom shader effects (optional)
+-Unity (2021+)
+-C# scripting
+-NavMesh AI (for alien pathfinding)
+-Custom shader effects
 
 Controls: 
 
-WASD – Move
-Mouse – Look around
+-WASD –> Move
+-Mouse –> Look around
